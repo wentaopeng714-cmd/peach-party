@@ -1,8 +1,8 @@
 # Peach Party
 
-Peach Party (企鹅接果派对) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.0.
+Peach Party (企鹅接果派对) is a standalone Toybox Arcade game with brighter rounded 3D toy art, a redesigned character, English UI, mobile controls and 15 evolving stages. Version 1.0.1.
 
-**[Play online](https://wentaopeng714-cmd.github.io/peach-party/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/peach-party/releases/download/v1.0.0/peach-party-v1.0.0.zip)**
+**[Play online](https://wentaopeng714-cmd.github.io/peach-party/) · [Download the complete ZIP](https://github.com/wentaopeng714-cmd/peach-party/releases/download/v1.0.1/peach-party-v1.0.1.zip)**
 
 ![Game preview](previews/peach-party-play.png)
 
